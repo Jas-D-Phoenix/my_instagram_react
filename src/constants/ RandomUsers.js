@@ -1,4 +1,4 @@
-export const FakeUsers = [
+export const  RandomUsers = [
 
   {
     photoURL:
